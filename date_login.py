@@ -1,1 +1,1 @@
-{"user": "stvz02", "pasw": "stvz02", "id": 29343, "host": "https://apye.esceg.cu/index.php/apye/login/signIn"}
+{"user": "stvz02", "pasw": "stvz02", "down": "https://apye.esceg.cu/index.php/apye/$$$call$$$/api/file/file-api/download-file?submissionFileId={id_file}&submissionId={id_user}&stageId", "host": "https://apye.esceg.cu/index.php/apye/login/signIn"}
